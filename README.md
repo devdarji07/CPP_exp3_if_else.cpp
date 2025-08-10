@@ -1,12 +1,12 @@
-# ⚙️ C++ Experiment 3: Understanding and Using Decision-Making Statements
+###  C++ Experiment 3: Understanding and Using Decision-Making Statements
 
-## 🎯 Aim
+##  Aim
 - To learn how decision-making works in C++ using `if`, `else if`, and `else`.
 - To check conditions using **relational** and **logical operators**.
 
 ---
 
-## 📌 Objectives
+##  Objectives
 ✔️ Use `if`, `else if`, and `else` to write programs for:
 - Checking if a number is positive, negative, or zero.  
 - Giving grades to a student based on average marks.  
@@ -17,16 +17,16 @@
 
 ---
 
-## 🧠 Concepts Used
+##  Concepts Used
 - **If-Else** Statements  
 - **Relational Operators**  
 - **Logical Operators**
 
 ---
 
-## 📖 Program Description
+##  Program Description
 
-### ✅ Syntax and Flow:
+###  Syntax and Flow:
 1. Declare variables (like `marks`, `x`, `y`) to store user inputs.
 2. Use `if(condition)` to check a logical/relational test.
 3. Block of code under `{}` runs **if** the condition is **true**.
@@ -36,7 +36,7 @@
 
 ---
 
-## 💻 Sample Output
+##  Sample Output
 
 ### ➤ Finding Whether the Number is Positive or Negative
 Value of a: 17
@@ -67,5 +67,5 @@ Value for x: 0
 Value for y: 0
 Origin
 ```
-## ✅ Conclusion
+##  Conclusion
 Through this experiment, we learned how to implement decision-making in C++ using `if`, `else if`, and `else` statements. We practiced using **relational** and **logical operators** to evaluate conditions and make meaningful program decisions. These concepts are foundational for building interactive and responsive programs in C++.
